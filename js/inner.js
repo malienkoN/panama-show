@@ -1,0 +1,1 @@
+$(document).ready((function(){window.matchMedia("(max-width: 991px)").matches&&$("#productSlider").lightSlider({gallery:!0,item:1,vertical:!1,slideMargin:5}),window.matchMedia("(min-width: 992px)").matches&&$("#productSlider").lightSlider({gallery:!0,item:1,vertical:!0,adaptiveHeight:!0,loop:!0,verticalHeight:500,vThumbWidth:60,thumbItem:5,thumbMargin:4,slideMargin:0})}));
